@@ -16,3 +16,6 @@ Make the following considerations for model selection
 
 [[Model Customization]]
 
+[[Model Lifecycle Management]]
+
+[[GenAIOps Intro]]
